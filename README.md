@@ -9,3 +9,13 @@ We compare four different approaches:
 4. BERT fine-tuning
 
 The experiments are implemented in Python using Jupyter Notebook.
+
+## Notebook (Executed)
+
+⚠️ Due to Google Colab metadata, GitHub may not render the notebook correctly.
+
+✅ The notebook is **fully executed with all outputs**.
+
+👉 Open the executed notebook in Google Colab:
+[Open in Colab](https://colab.research.google.com/github/mmourtias/amazon_reviews_4_models_comparison_project/blob/main/notebooks/amazon_reviews_4_models_comparison_project.ipynb)
+
